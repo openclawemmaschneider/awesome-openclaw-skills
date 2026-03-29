@@ -9,6 +9,7 @@
 - [canva](https://clawskills.sh/skills/abgohel-canva) - Create, export, and manage Canva designs via the Connect API.
 - [ceorater](https://clawskills.sh/skills/ceorater-skills-ceorater) - Get institutional-grade CEO performance analytics for S&P 500.
 - [check-analytics](https://clawskills.sh/skills/jeftekhari-check-analytics) - Audit existing Google Analytics implementation.
+- [clicks-protocol](https://github.com/openclaw/skills/tree/main/skills/protogenosone/clicks-protocol/SKILL.md) - Autonomous DeFi yield for AI agents on Base. Query APY rates, simulate payment splits, check agent treasury status. Uses Clicks Protocol MCP server.
 - [cicd-pipeline](https://clawskills.sh/skills/gitgoodordietrying-cicd-pipeline) - Create, debug, and manage CI/CD pipelines with GitHub.
 - [clawver-store-analytics](https://clawskills.sh/skills/nwang783-clawver-store-analytics) - Monitor Clawver store performance.
 - [cleanup](https://clawskills.sh/skills/themrzz-cleanup) - Remove all stored Kradleverse sessions.
